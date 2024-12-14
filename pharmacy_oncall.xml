@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OnCallSchedules>
+    <Day date="2024-12-16">
+        <Pharmacy>
+            <Name>Carjell's Apotheke</Name>
+            <Address>Mittelweg 165, 20148 Hamburg</Address>
+            <Phone>+49 40 442327</Phone>
+            <Distance>1.5 km</Distance>
+        </Pharmacy>
+        <Pharmacy>
+            <Name>Eimsbütteler-Apotheke</Name>
+            <Address>Osterstraße 16, 20259 Hamburg</Address>
+            <Phone>+49 40 4922060</Phone>
+            <Distance>3 km</Distance>
+        </Pharmacy>
+        <Pharmacy>
+            <Name>Weiden-Apotheke</Name>
+            <Address>Weidenallee 11-13, 20357 Hamburg</Address>
+            <Phone>+49 40 433175</Phone>
+            <Distance>3.5 km</Distance>
+        </Pharmacy>
+        <Pharmacy>
+            <Name>Vital-Apotheke</Name>
+            <Address>Scharbeutzer Straße 104b, 22147 Hamburg</Address>
+            <Phone>+49 40 64860760</Phone>
+            <Distance>8 km</Distance>
+        </Pharmacy>
+        <Pharmacy>
+            <Name>Marktplatz Apotheke Winterhude</Name>
+            <Address>Winterhuder Marktplatz 21a, 22303 Hamburg</Address>
+            <Phone>+49 40 473939</Phone>
+            <Distance>4 km</Distance>
+        </Pharmacy>
+    </Day>
+    <Day date="2024-12-17">
+        <Pharmacy>
+            <Name>Victoria-Apotheke</Name>
+            <Address>Bahrenfelder Straße 69, 22765 Hamburg</Address>
+            <Phone>+49 40 3900730</Phone>
+            <Distance>5 km</Distance>
+        </Pharmacy>
+        <Pharmacy>
+            <Name>Cranach-Apotheke</Name>
+            <Address>Bengelsdorfstraße 1c, 22175 Hamburg</Address>
+            <Phone>+49 40 6957273</Phone>
+            <Distance>8 km</Distance>
+        </Pharmacy>
+        <Pharmacy>
+            <Name>Weiden-Apotheke</Name>
+            <Address>Weidenallee 11-13, 20357 Hamburg</Address>
+            <Phone>+49 40 433175</Phone>
+            <Distance>3.5 km</Distance>
+        </Pharmacy>
+        <Pharmacy>
+            <Name>Hauptbahnhof Apotheke</Name>
+            <Address>Glockengießerwall 8-10, 20095 Hamburg</Address>
+            <Phone>+49 40 32527383</Phone>
+            <Distance>4 km</Distance>
+        </Pharmacy>
+        <Pharmacy>
+            <Name>St. Johannis Apotheke</Name>
+            <Address>Maria-Louisen-Straße 100, 22301 Hamburg</Address>
+            <Phone>+49 40 276884</Phone>
+            <Distance>2 km</Distance>
+        </Pharmacy>
+    </Day>
+    <!-- Repeat for remaining days -->
+</OnCallSchedules>
